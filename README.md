@@ -16,8 +16,8 @@ I’ll be **updating this repo** regularly with my Notebooklm notebooks, mind ma
 |-----------------|-------|------------|-------------|----------|
 | **Module 1** | Supervised Learning | Arihant / Sanjay | 3:00 PM – 4:00 PM, 10-Aug | [Notebook](https://notebooklm.google.com/notebook/345cc30e-6db5-40ef-9d4c-411b1926b44c) |
 | **Module 2** | Deep Neural Networks | Faizan Ahemad | 9:00 AM – 12:00 PM, 16-Aug | [Notebook](https://notebooklm.google.com/notebook/fec7e19c-85cb-4f09-9a6e-da0d70ccc74b) |
-| **Module 3** | Dimensionality Reduction | Atul Saroop | 9:00 AM – 11:00 AM, 17-Aug | Coming Soon |
-| **Module 4** | Unsupervised Learning | Niloptal / Jiten Rana / Anish | 9:00 AM – 11:30 AM, 23-Aug | Coming Soon |
+| **Module 3** | Dimensionality Reduction | Atul Saroop | 9:00 AM – 11:00 AM, 17-Aug | [Notebook](https://notebooklm.google.com/notebook/d97fe40c-7b5b-4a8d-9638-2dbda6c58cc2) (Under Progress) |
+| **Module 4** | Unsupervised Learning | Niloptal / Jiten Rana / Anish | 9:00 AM – 11:30 AM, 23-Aug | [Notebook](https://notebooklm.google.com/notebook/13a61c25-67b2-4cfd-99f2-b618fa76ade7) |
 | **Module 5** | Sequential Learning | Aravind | 9:00 AM – 11:30 AM, 24-Aug | Coming Soon |
 | **Module 6** | Reinforcement Learning | Anirban Majumdar | 9:00 AM – 11:15 AM, 30-Aug | Coming Soon |
 | **Module 7** | Generative AI and LLMs | Faizan / Rishav / Mohit | 9:00 AM – 1:00 PM, 31-Aug | Coming Soon |
