@@ -20,8 +20,8 @@ I’ll be **updating this repo** regularly with my Notebooklm notebooks, mind ma
 | **Module 4** | Unsupervised Learning | Niloptal / Jiten Rana / Anish | 9:00 AM – 11:30 AM, 23-Aug | [Notebook](https://notebooklm.google.com/notebook/13a61c25-67b2-4cfd-99f2-b618fa76ade7) |
 | **Module 5** | Sequential Learning | Aravind | 9:00 AM – 11:30 AM, 24-Aug | [Notebook](https://notebooklm.google.com/notebook/de4d4555-5a1f-4f80-a41f-ddcc94b02750) |
 | **Module 6** | Reinforcement Learning | Anirban Majumdar | 9:00 AM – 11:15 AM, 30-Aug | [Notebook](https://notebooklm.google.com/notebook/78c4a425-2865-402a-9bbb-f831306767bf) |
-| **Module 7** | Generative AI and LLMs | Faizan / Rishav / Mohit | 9:00 AM – 1:00 PM, 31-Aug | Coming Soon |
-| **Module 8** | Causal Inference | Abhirup Mondal | 9:00 AM – 11:45 AM, 1-Sep | Coming Soon |
+| **Module 7** | Generative AI and LLMs | Faizan / Rishav / Mohit | 9:00 AM – 1:00 PM, 31-Aug | [Notebook](https://notebooklm.google.com/notebook/6d95c1b9-5583-463a-990d-92865ccc409b) |
+| **Module 8** | Causal Inference | Abhirup Mondal | 9:00 AM – 11:45 AM, 1-Sep | [Notebook](https://notebooklm.google.com/notebook/3b520fe0-de41-49d1-b38d-4c8fc6f07087) |
 
 ---
 
